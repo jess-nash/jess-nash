@@ -1,3 +1,4 @@
+<img height="60px" width="100px" src="https://www.pikpng.com/pngl/b/577-5777208_hello-transparent-tumblr-sign-clipart.png">
 - 👋 Hi, I’m @jess-nash
 - 👀 I’m interested in video games and sleeping.
 - 🌱 I’m currently learning about git and CSS.
