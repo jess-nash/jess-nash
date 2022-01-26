@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning about git and CSS.
 
 Still settling into Github. 😴 🦵
-Taking Le Wagon's Web Development bootcamp from March. 
+<br> 
+Taking <strong>Le Wagon's Web Development</strong> bootcamp from March. 
 
 <!---
 jess-nash/jess-nash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
