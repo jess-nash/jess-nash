@@ -1,13 +1,10 @@
 <img height="60px" width="100px" src="https://www.pikpng.com/pngl/b/577-5777208_hello-transparent-tumblr-sign-clipart.png">
-- 👋 Hi, I’m @jess-nash
-- 👀 I’m interested in video games and sleeping.
-- 🌱 I’m currently learning about git and CSS.
-
+<ul>
+  <li>👋 Hi, I’m @jess-nash</li>
+  <li>👀 I’m interested in video games and sleeping.</li>
+  <li>🌱 I’m currently learning about git and CSS.</li>
+ </ul>
+<br>
 Still settling into Github. 😴 🦵
 <br> 
-Taking <strong>Le Wagon's Web Development</strong> bootcamp from March. 
-
-<!---
-jess-nash/jess-nash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Taking the <strong>Le Wagon Web Development</strong> bootcamp from March. 
