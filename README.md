@@ -1,6 +1,6 @@
-👋 Hi, I’m @jess-nash
-👀 I’m interested in video games and sleeping.
-🌱 I’m currently learning about git and CSS.
+- 👋 Hi, I’m @jess-nash
+-　👀 I’m interested in video games and sleeping.
+～🌱 I’m currently learning about git and CSS.
 
 Still settling into Github. 😴 
 
