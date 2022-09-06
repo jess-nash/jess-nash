@@ -1,6 +1,13 @@
-<div align="center">
+<div id="header" align="center">
   <a href="#"><img height="100px" width="100px" src="https://user-images.githubusercontent.com/97200803/188635733-d29a1fd4-7993-4fed-a03d-c4d3801299fc.png"></a>
 </div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/jess-nash/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.youtube.com/mikutan"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
+  <a href="https://twitter.com/itsmikutan"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+</div>
+
 <h3 align="center">A eager web developer from the U.S. 🇺🇸 based in Japan 🇯🇵</h3>
 
 <p align="left"> <a href="https://twitter.com/itsmikutan" target="blank"><img src="https://img.shields.io/twitter/follow/itsmikutan?logo=twitter&style=for-the-badge" alt="itsmikutan" /></a> </p>
