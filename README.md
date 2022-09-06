@@ -4,27 +4,42 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jess-nash/" target=”_blank”><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.instagram.com/itsmikutan" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
   <a href="https://www.youtube.com/mikutan" target=”_blank”><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
-  <a href="https://twitter.com/itsmikutan" target=”_blank”><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
 
-<h3 align="center">A eager web developer from the U.S. 🇺🇸 based in Japan 🇯🇵</h3>
+<div id="twitter-badge" align="center">
+  <a href="https://twitter.com/itsmikutan" target="blank"><img src="https://img.shields.io/twitter/follow/itsmikutan?logo=twitter&style=for-the-badge" alt="Twitter Badge with followers"></a>
+</div>
 
-<p align="left"> <a href="https://twitter.com/itsmikutan" target="blank"><img src="https://img.shields.io/twitter/follow/itsmikutan?logo=twitter&style=for-the-badge" alt="itsmikutan" /></a> </p>
+<div id="view-counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=jess-nash&style=flat-square&color=blue" alt=""/>
+</div>
 
-- 📫 How to reach me **jeenash2@gmail.com**
+<h2 align="center">Welcome to my GitHub ✨</h2>
 
-- ⚡ Fun fact **I think I might have too many hobbies**
+---
 
-<h3 align="left">Connect with me:</h3>
+### :woman_technologist: About Me :
+I'm an eager web developer from the U.S. 🇺🇸 based in Japan 🇯🇵
+- ⚡️ Currently working on side projects to enhance my back-end & front-end skills
+- 🌱 Exploring Technical Content Writing
+- ✨ Fun fact... **I think I might have too many hobbies** 🧗‍♀️ 🎮 🥾 🍿 
+- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-jess_nash-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jess-nash/)
+
+<!-- ---
+
+### 🙆‍♀ Connect with Me! :
 <p align="left">
   <a href="https://twitter.com/itsmikutan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmikutan" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/jess-nash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jess-nash" height="30" width="40" /></a>
   <a href="https://instagram.com/itsmikutan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmikutan" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/mikutan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mikutan" height="30" width="40" /></a>
 </p>
+ -->
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### :hammer_and_wrench: Languages and Tools :
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -71,6 +86,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jess-nash&theme=violet-dark&ring=F06B96&fire=F06B96&border=F06B96&currStreakNum=F06B96&sideNums=F06B96&currStreakLabel=F06B96&sideLabels=F06B96&stroke=F06B96&dates=F06B96)](https://git.io/streak-stats)
 
