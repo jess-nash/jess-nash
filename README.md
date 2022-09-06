@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jessica Nash <a href="#"><img height="40px" width="60px" src="https://www.pikpng.com/pngl/b/577-5777208_hello-transparent-tumblr-sign-clipart.png"></a></h1>
-
-<a href="#"><img align="center" height="40px" width="60px" src="images/pixel-speech-bubble.gif"></a>
+<div align="center">
+  <a href="#"><img height="100px" width="100px" src="https://user-images.githubusercontent.com/97200803/188635733-d29a1fd4-7993-4fed-a03d-c4d3801299fc.png"></a>
+</div>
 <h3 align="center">A eager web developer from the U.S. 🇺🇸 based in Japan 🇯🇵</h3>
 
 <p align="left"> <a href="https://twitter.com/itsmikutan" target="blank"><img src="https://img.shields.io/twitter/follow/itsmikutan?logo=twitter&style=for-the-badge" alt="itsmikutan" /></a> </p>
