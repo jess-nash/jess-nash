@@ -16,9 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=jess-nash&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h2 align="center">Welcome to my GitHub ✨</h2>
-
----
+<h1 align="center">Welcome to my GitHub ✨</h2>
 
 ### :woman_technologist: About Me :
 I'm an eager web developer from the U.S. 🇺🇸 based in Japan 🇯🇵
