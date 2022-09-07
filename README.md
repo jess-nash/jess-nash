@@ -85,6 +85,7 @@ I'm an eager web developer from the U.S. 🇺🇸 based in Japan 🇯🇵
   </a>
 </p>
 
+<!---
 ---
 
 ### :fire: My Stats :
@@ -93,4 +94,4 @@ I'm an eager web developer from the U.S. 🇺🇸 based in Japan 🇯🇵
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jess-nash&layout=compact&theme=radical&show_icons=true&title_color=ef6a95&bg_color=000000&border_color=ef6a95&text_color=ef6a95)](https://github.com/anuraghazra/github-readme-stats)
 
-
+--->
