@@ -21,7 +21,7 @@
 ### :woman_technologist: About Me :
 I'm an eager web developer from the U.S. 🇺🇸 based in Japan 🇯🇵
 - ⚡️ Currently working on side projects to enhance my back-end & front-end skills
-- 🌱 Exploring JavaScript Frameworks
+- 🌱 Exploring JavaScript frameworks & libraries [React & Handlebars]
 - ✨ Fun fact... **I think I might have too many hobbies** 🧗‍♀️ 🎮 🥾 🍿 
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-jess_nash-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jess-nash/)
 
